@@ -1,6 +1,6 @@
 # Recipes (recipes)
+CRUD de uma aplicação para cadastro de receitas desenvolvido com Vuejs e Quasar framework
 
-Livro de receitas
 
 ## Install the dependencies
 ```bash
